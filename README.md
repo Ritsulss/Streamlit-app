@@ -4,7 +4,6 @@ An interactive **Streamlit** web app for exploring water-quality data collected 
 autonomous underwater vehicle (AUV) in Biscayne Bay, Florida.
 
 🔗 **Live app:** (https://app-app-93pui8weiwrmt2ya4336dv.streamlit.app/)
-🔗 **Repository:** (https://github.com/Ritsulss/Streamlit-app)
 
 ---
 
