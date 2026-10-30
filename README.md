@@ -4,7 +4,7 @@ An interactive **Streamlit** web app for exploring water-quality data collected 
 autonomous underwater vehicle (AUV) in Biscayne Bay, Florida.
 
 🔗 **Live app:** (https://app-app-93pui8weiwrmt2ya4336dv.streamlit.app/)
-🔗 **Repository:** https://github.com/YOUR-USERNAME/biscayne-bay-app  *(replace)*
+🔗 **Repository:** (https://github.com/Ritsulss/Streamlit-app)
 
 ---
 
@@ -75,14 +75,6 @@ streamlit run app.py
 
 The app opens at http://localhost:8501.
 
-## Deploy to Streamlit Community Cloud
-
-1. Push this repo to GitHub (public).
-2. Go to https://share.streamlit.io and sign in with GitHub.
-3. Click **Create app → Deploy a public app from GitHub**.
-4. Select the repo, branch `main`, and main file `app.py`. Click **Deploy**.
-5. Copy the app URL into the top of this README.
-
 ## Project structure
 
 ```
@@ -95,12 +87,6 @@ biscayne-bay-app/
 └── data/
     └── biscayneBay_waterquality.csv
 ```
-
-## Agile process
-
-This project was managed with Agile (Scrum-style) practices: user stories, a prioritized
-product backlog, short sprints, a Kanban board (GitHub Projects), and retrospectives.
-See **[AGILE.md](AGILE.md)** for details.
 
 ## Tech stack
 
